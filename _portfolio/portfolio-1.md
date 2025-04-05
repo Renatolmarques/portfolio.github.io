@@ -6,7 +6,7 @@ excerpt: "Short description of portfolio item number 1 <br/><img src='/images/Te
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can have images or nice text.
+This is an item in your portfolio. It can have images or nice text..
 
 
 ![Imagem do portfólio](/images/500x300.png)
